@@ -1,9 +1,9 @@
 # -Online-Quiz-App
-#  Java QuizApp (Console-Based)
+console based:
 
 A simple Java console application that allows users to take a multiple-choice quiz.
 
-## Work Done / Features
+ Features
 
 - Created Question class for storing question, options, and correct answer
 - Used ArrayList to manage list of questions
@@ -12,7 +12,7 @@ A simple Java console application that allows users to take a multiple-choice qu
 - Compared input with correct answer index
 - Tracked and displayed final score
 
-##  Concepts Used
+  Concepts Used
 
 - Classes and Objects (OOP)
 - Arrays and Lists
@@ -20,23 +20,5 @@ A simple Java console application that allows users to take a multiple-choice qu
 - Scanner (for input)
 
 
-Output:
-Q3:
-Which collection is used to store key-value pairs?
-1.ArrayList
-2.HashSet
-3.Map
-4.Queue
-Your answer: 3
-? Correct!
 
-Q4:
-Which language is used for Android App Development?
-2.Java
-3.C#
-4.Swift
-Your answer: 2
-? Correct!
-
-? Quiz Completed!
- Your Score: 4 out of 4
+![image](https://github.com/user-attachments/assets/7508894e-e7a6-4e68-a6fe-22193baed9b4)
